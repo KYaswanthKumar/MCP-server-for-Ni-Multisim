@@ -1,4 +1,4 @@
-# Python artifacts
+
 __pycache__/
 *.py[cod]
 *$py.class
@@ -6,7 +6,6 @@ __pycache__/
 .venv/
 venv/
 
-# Multisim & SPICE temporary files
 *.cir
 *.tmp
 *.raw
@@ -16,7 +15,6 @@ venv/
 *.ms14.bak
 msre_exp/
 
-# IDE & OS files
 .vscode/
 .idea/
 Thumbs.db
